@@ -26,7 +26,6 @@ CATKIN_DEPENDS
   grips_moveit_config
   eigen_conversions
   message_runtime
-  labview_bridge
 )
 
 find_package(Eigen REQUIRED)
